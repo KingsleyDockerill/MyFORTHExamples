@@ -1,2 +1,4 @@
-: MSG S" Hello, world!" ; ( Simply declare our variable )
-MSG TYPE
+: TEXT1 S" Hello! These are different examples of FORTH code I made." ;
+: TEXT2 S"  I'd recommend going through each directory, starting at hello.";
+TEXT1 TYPE
+TEXT2 TYPE
