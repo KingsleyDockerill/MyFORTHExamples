@@ -1,2 +1,2 @@
-: MSG S" Hello, world!" ; ( Simply declare our variable )
+: MSG S" Hello, world!" ; ( Simply declare the variable )
 MSG TYPE ( You need TYPE here)
